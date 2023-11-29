@@ -1,2 +1,6 @@
 *.opus
 *.webm
+*.srt
+*.vtt
+*.tsv
+*.json
